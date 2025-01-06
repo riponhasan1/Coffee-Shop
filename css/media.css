@@ -44,7 +44,6 @@
     background-color: #363032;
 }
 .grid-item{
-    /* padding: 30px; */
     display: grid;
     column-gap: 10px;
     row-gap: 10px;
@@ -118,6 +117,8 @@
     
 }
 .item9 h1{
+    text-align: center;
+    padding-top: 40px;
     color: white;
     font-size: 47px;
     line-height: 48px;
